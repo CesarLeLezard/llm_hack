@@ -40,7 +40,7 @@ This project is intended for **educational and ethical purposes only**. Unauthor
 ## 📂 Example Usage
 
 ```cmd
-python test.py
+python replace.py
 Enter a new URL to replace 'https://www.car.com': 192.168.0.1
 ```
 
